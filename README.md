@@ -105,7 +105,6 @@ int main(void) {
 
 ```
 #include <windows.h>
-#include <vector>
 #include "resource.h"
 
 // Win32 Shellcode - Spawn the Calc
